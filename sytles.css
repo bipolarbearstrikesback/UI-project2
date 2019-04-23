@@ -1,0 +1,53 @@
+section{
+  display: inline-block;
+  text-align:center;
+}
+.Main{
+  text-align:center;
+}
+
+.nav{
+  background:lightGreen;
+  width:20px;
+  height:20px;
+  padding:20px;
+}
+
+.Features {
+  width:400px;
+  
+}
+.About{
+  width: 400px;
+  
+}
+.Section{
+  width:300px}
+.Vision{
+  width:275px
+   
+}
+button{
+  background: white;
+  border: 1px solid black;
+  
+}
+.Product{
+  width:275px
+}
+.Services{
+  width:275px
+  
+}
+.copyright{
+  text-align:center;
+}
+.logo{
+float:right;
+}
+a{
+  margin: 35px;
+}
+.Innovation{
+  font-size:32px;
+}
